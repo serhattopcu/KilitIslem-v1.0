@@ -1,0 +1,73 @@
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Kilit İşlem.exe.config
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Kilit İşlem.exe
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Kilit İşlem.pdb
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Kilit İslem.csprojResolveAssemblyReference.cache
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.analizform.resources
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.oyunform.resources
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.girisform.resources
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Kilit İslem.csproj.GenerateResource.Cache
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Kilit İşlem.exe
+C:\Users\Serhat\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Kilit İşlem.pdb
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe.config
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.exe
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.pdb
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.pdb
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csprojResolveAssemblyReference.cache
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\obj\Debug\Kilit.analizform.resources
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\obj\Debug\Kilit.oyunform.resources
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\obj\Debug\Kilit.girisform.resources
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\obj\Debug\Kilit.Properties.Resources.resources
+C:\Users\Serhat\Documents\Visual Studio 2013\Projects\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.GenerateResource.Cache
+E:\son staj 1\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe.config
+E:\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.exe
+E:\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.pdb
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe.config
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.exe
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.pdb
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.pdb
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csprojResolveAssemblyReference.cache
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit.analizform.resources
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit.oyunform.resources
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit.girisform.resources
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit.Properties.Resources.resources
+E:\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.GenerateResource.Cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe.config
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.AssemblyReference.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.SuggestedBindingRedirects.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit.analizform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit.oyunform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit.girisform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit.Properties.Resources.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.GenerateResource.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.CoreCompileInputs.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\son staj 1\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe.config
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.AssemblyReference.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit.analizform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit.oyunform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit.girisform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit.Properties.Resources.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.GenerateResource.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.CoreCompileInputs.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj -1 Projem\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.pdb
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe.config
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.exe
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\bin\Debug\Kilit İşlem.pdb
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.AssemblyReference.cache
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit.analizform.resources
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit.oyunform.resources
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit.girisform.resources
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit.Properties.Resources.resources
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.GenerateResource.cache
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit İslem.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.exe
+C:\Users\serha\Desktop\Kilit Islem\Kilit Islem\obj\Debug\Kilit İşlem.pdb
