@@ -1,2 +1,2 @@
-# Kilit-slem-v1.0
+# Kilit-İslem-v1.0
 c# ile geliştirildi.
